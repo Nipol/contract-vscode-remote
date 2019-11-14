@@ -1,0 +1,16 @@
+{
+	"name": "sample",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"truffle:init": "truffle init",
+		"truffle:develop": "truffle develop"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"solc": "^0.5.12",
+		"truffle": "^5.0.44"
+	}
+}
